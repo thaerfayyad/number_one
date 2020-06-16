@@ -1,0 +1,593 @@
+<?php
+
+return [
+    
+    'rent' => 'الإيجار',
+    'electricity' => 'الكهرباء',
+    'year' => 'سنة',
+     'month' => 'شهر',
+     'supplier' => 'الموردين',
+     'debt' => 'المديونيات',
+     'balance' => 'الصافي',
+     'totalin' => 'اجمالي الإيرادات',
+     'totalout' => 'اجمالي المصروفات',    
+     'currentMonth' => 'الشهر الحالي',
+     'currentYear' => 'السنة الحالية',
+     'incomeCarWash' => 'ايرادات غسيل السيارات',
+     'incomeOilChange' => 'ايرادات تغيير الزيت',
+     'incomeOthersIncoms' => 'ايرادات اخرى ',
+     'totalOutcome' => 'اجمالي المصاريف',
+     'amount' => 'الملبغ',
+     'salary' => 'الراتب',
+     'month/year' => 'شهر / سنة',
+     'outOrders' => 'صادر',
+     'inOrders' => 'وارد',
+     'employee' => 'موظف',
+     'executive' => 'اداري',
+     
+    'offer_time'=>'مدة العرض',
+    'edit_product'=>'تعديل المنتج',
+    'add_product'=>'اضافة منتج جديد',
+    'statistics'=>'احصائيات',
+    'products_management' => 'ادارة المنتجات',
+    'categories_management' => 'ادارة التصنيفات',
+    'title_en' => 'العنوان بالانجليزي',
+    'title_ar' => 'العنوان بالعربي',
+    'date_order' => 'تاريخ الطلب',
+    'order_status' => 'حالة الطلب',
+    'quantity' => 'الكمية',
+    'total_quantity' => 'مجموع الكمية',
+    'total_of_0' =>'مجموع السعر 0',
+    'total_of_1' =>'مجموع السعر 1',
+    'deff_quantity_price' =>'الفرق بين الكمية و السعر',
+    'product_image' => 'صورة المنتج',
+    'suggestion' => 'اقتراح',
+    'problem' => 'مشكلة',
+    'other' => 'غير ذلك',
+    'kilo' => 'كيلو',
+    'package' => 'ربطة',
+    'type_msg' => 'نوع الرسالة',
+    'preparing' => 'قيد التحضير',
+    'onDelivery' => 'قيد التوصيل',
+    'promotions' => 'أكواد الخصم',
+    'promotion' => 'كود خصم',
+    'discount' => 'الخصم',
+    'discount_code' => 'كود الخصم',
+    'details' => 'تفاصيل الطلب',
+    'discount%' => 'نسبة الخصم',
+    'delivery_cost' => 'تكلفة التوصيل ',
+    'price_kilo' => 'السعر/كيلو',
+    'profile_image' => 'الصورة الشخصية',
+    'mobile' => 'موبايل',
+    'email' => 'البريد الالكتروني',
+    'all' => 'الكل',
+    'reset' => 'اعادة تعيين ',
+    'user' => 'مستخدم',
+    'password' => 'كلمة المرور',
+    'confirm_password' =>'تاكيد كلمة المرور',
+    'country'=>'الدولة',
+    'city'=>'المدينة',
+    'cancel' => 'الغاء ',
+    'submit' => 'ارسل ',
+    'create' => 'تم الانشاء بنجاح',
+    'update' => 'تم التعديل بنجاح',
+    'user_edit' => 'تعديل المستخدم',
+    'edit_password' => 'تعديل الباسوورد ',
+    'name_product' => 'اسم المنتج',
+    'available_offer' => 'مدة الخصم',
+    'start' => 'تاريخ البداية',
+    'end' => 'تاريخ النهاية',
+
+    //siderbar
+
+    'home' => 'الرئيسية',
+    'dashboard' => 'صفحة المدير',
+    'manage_users' => 'ادارة المستخدمين',
+
+    'categories' => 'التصنيفات',
+    'services' => ' الخدمات',
+    'orders' => 'الطلبات',
+    'ads' => 'الاعلانات',
+    'notifications' => 'الاشعارات',
+    'contact' => 'رسائل اتصل بنا',
+    'rate' => 'التقييم' ,
+    'pages' => 'الصفحات',
+    'setting' => 'الاعدادات العامة',
+    'owners' => 'مزودي الخدمات' ,
+    'users' => 'المستخدمين' ,
+    'time to'=>'ينتهي العمل في الساعة',
+    'questions'=>'الأسئلة الشائعة',
+    'appName_ar'=> 'اسم التطبيق بالعربي',
+    'appName_en'=> 'اسم التطبيق بالانجليزي',
+    'all' => 'الكل',
+    'sendTo' =>'ارسال الى' ,
+    'message'=>'الرسالة',
+    'cash'=>'cash',
+    'credit'=>'credit',
+    'wallet'=>'wallet',
+    'payment'=>'طريقة الدفع',
+    // Buttons
+
+    'add' => 'اضافة ',
+    'filter' => 'فلترة ',
+    'delete' => 'حذف ',
+    'active' => 'فعال ',
+    'activation' => 'تفعيل ',
+    'not_active' => 'غير فعال ',
+    'cancel_activation' => 'الغاء التفعيل ',
+    'search' => 'بحث ',
+    'edit' => 'تعديل ',
+    'pending' => 'قيد المعالجة',
+    'processing' => 'قيد الانتظار',
+    'complete'=>'مكتمل',
+    'Canceled'=> 'ملغي',
+    'BrowseIamges' => 'استعراض الصور' ,
+    'question'=>'السؤال',
+    'answer'=>'الجواب',
+    'question_ar'=>'السؤال بالعربي',
+    'question_en'=>'السؤال بالانجليزي',
+    'answer_ar'=>'الجواب بالعربي',
+    'answer_en'=>'الجواب بالانجليزي',
+    'addquestion'=>'اضافة سؤال',
+    'editquestion'=>'تعديل السؤال',
+    'processingService'=> 'طلبات قيد المعالجة',
+    'completeService'=>'الطلبات المكتملة',
+    'pendingService'=>'طلبات قيد الانتظار ',
+    'canceleService'=>'الطلبات الملغية',
+
+    //th
+    'image' => 'الصورة ',
+    'images' => 'المزيد من الصور ',
+    'status' => 'الحالة ',
+    'name' => 'الاسم ',
+    'price' => 'السعر ',
+    'created' => 'انشأ بتاريخ ',
+    'action' => 'العمليات ',
+    'no' => 'لا يوجد بيانات!',
+    'name_service' => 'اسم الخدمة',
+    'category'=>'التصنيف',
+    'name_owner' => 'مزود الخدمة' ,
+    'available_work' =>'وقت العمل' ,
+    'total' => 'الاجمالي' ,
+    'booking_date' => 'تاريخ الحجز',
+    'booking_time' => 'وقت الحجز',
+    'price-service' => 'سعر الخدمة',
+    'price-addservice' => 'سعر الخدمات الاضافية',
+    'change-status'=> 'تغيير الحالة' ,
+    //notification
+    'create' => 'تم الانشاء بنجاح',
+
+
+
+    //label
+    'name_en' => 'الاسم بالانجليزي ',
+    'name_ar' => 'الاسم بالعربي ',
+    'categoryEdit' => 'تعديل التصنيف' ,
+    'logo' => 'الصورة' ,
+    'addCategory' => 'اضافة تصنيف' ,
+    'new_owner' => ' اضافة مزود خدمة' ,
+    'edit_owner' => ' تعديل مزود الخدمة' ,
+    'newService' => ' اضافة خدمة جديدة' ,
+    'edit_service' => 'تعديل الخدمة',
+    'description_en' => 'الوصف بالانجليزي ',
+    'description_ar' => 'الوصف بالعربي ',
+    'attachments' =>'صور مرفقة',
+    'additionServices'=>'خدمات اضافية',
+    'addionalServices'=>'خدمات اضافية',
+    'add_additionServic'=> 'اضافة خدمة اضافية ' ,
+    'edit_additionServic' => 'تعديل خدمة اضافية',
+
+
+    'specialization' => 'التخصصات',
+    'all_specializations' => 'كافة التخصصات',
+    'new_specialization' => 'تخصص جديد',
+
+//////////////////////////////
+
+    'companies' =>'الشركات',
+    'addCompanies' =>'أضف شركة جديدة',
+    'editCompanies' =>'تعديل الشركة',
+    'in' =>'داخلي',
+    'out' =>'خارجي',
+    'countries' => 'ادارة الدول ',
+    'cities' => 'ادارة المدن',
+    'all_cities' => ' المدن',
+    'new_city' => 'مدينة جديدة',
+    'new_country' => 'دولة جديدة',
+    'city' => 'المدينة',
+    'country' => 'الدولة' ,
+    'addCity' => 'اضافة مدينة',
+    'addCountry' => 'اضافة دولة',
+    'back' =>'تراجع',
+    'link' => 'الرابط',
+    'addAd' => 'اضافة اعلان جديد',
+    'editAd' => 'تعديل الاعلان',
+
+
+
+
+    'clinics' => 'عيادات',
+    'all_clinics' => 'كافة العيادات',
+    'new_clinic' => 'عيادة جديدة',
+
+
+    'all_category' => 'كافة التصنيفات',
+    'new_category' => 'تصنيف جديد',
+
+
+    'all_service' => 'كافة الخدمات',
+    'new_service' => 'خدمة جديد',
+
+    'subcategory' => ' تصنيفات المنتجات',
+    'all_subcategory' => 'كافة التصنيفات',
+    'new_subcategory' => 'تصنيف جديد',
+
+
+    'brands' => 'علامات تجارية',
+    'all_brands' => 'كافة العلامات',
+    'new_brand' => 'علامة جديدة',
+
+
+    'pharmacies' => 'صيدليات',
+    'products' => 'المنتجات',
+
+    'all_products' => 'كافة المنتجات',
+    'new_product' => 'منتج جديد',
+
+
+
+    'company' => 'شركات',
+    'all_company' => 'كافة الشركات',
+    'new_company' => 'شركة جديدة',
+
+
+    'calibers' => ' العيار',
+    'addCaliber' => ' أضف عيار جديد',
+    'caliberEdit' => 'تعديل العيار',
+    'oil' =>'الزيت',
+    'addOil' => 'أضف زيت جديد',
+    'oilEdit' => 'تعديل الزيت',
+    'emergency' => 'عيادات طوارئ',
+    'all_emergency' => 'كافة العيادات',
+    'new_emergency' => 'عيادة جديدة',
+
+
+    'join_request' => 'طلبات الانضمام',
+
+
+
+    'slider_pharmacy' => 'السلايدر',
+    'slider_homeServes' => 'سلايدر الشركات',
+    'slider' => 'سلايدر',
+    'all_slider' => 'كافة الصور',
+    'new_slider' => 'صورة جديدة',
+
+
+    'all_contact' => 'كافة الرسائل',
+
+
+    'booking' => 'الحجز',
+    'all_booking' => 'كافة الحجوزات',
+    'booking_clinics' => 'حجوزات العيادات',
+    'booking_companies' => 'حجوزات الشركات',
+
+
+
+
+    'all_ads' => 'كافة الاعلانات',
+    'new_ads' => 'اعلان جديد',
+
+
+    'social_media' => 'الوسائل الاجتماعية',
+    'all_social' => 'كافة الوسائل',
+    'new_social' => 'وسيلة جديدة',
+
+
+
+    'all_setting' => 'كافة البيانات',
+
+
+    'all_orders' => ' كافة الطلبات',
+
+    'land' => 'الواجهة الرئيسية',
+    'all_land' => 'كافة العناصر',
+
+
+
+    'all_pages' => 'كافة الصفحات',
+
+    'all_messages' => 'كافة الرسائل',
+
+    'messages' => 'الاشعارات',
+    'new_message' => 'رسالة جديدة',
+    'messagess' => 'الرسائل',
+   
+    'title_setting' => 'ادارة البيانات الرئيسية',
+    'excellent' => 'ممتاز ',
+    'rate' => 'التقييم ',
+    'rates' => 'التقيمات ',
+
+    'Yes' => 'نعم ',
+
+    'drwaTheArea' => 'ارسم حدود المنطقة ',
+    'allAreas' => 'جميع المناطق المغطاة',
+    'resetMap' => 'تفريغ الخريطة ',
+
+    'title' => 'العنوان ',
+    'customer-details' => 'تفاصيل الزبون ',
+    'order-details' => 'تفاصيل الطلب ',
+    'ordernumber' => 'رقم الطلب ',
+    'customeraddress' => 'عنوان الزبون ',
+    'delivery_cost' => 'تكلفة التوصيل ',
+    'url' => 'الرابط ',
+
+    'total' => 'الاجمالي ',
+    'from_date'=>'من تاريخ',
+    'to_date'=>'حتى تاريخ',
+    'username'=>'اسم المستخدم',
+    'deliveryDate'=>'تاريخ التوصيل',
+
+    'Pending'=>'إنتظار',
+    'Confirm'=>'مؤكد',
+
+    'customer'=>'الزبون',
+    'deliveries'=>'شركة التوصيل',
+
+    'ActiveAccount'=>'تم تفعيل الحساب',
+    'unActiveAccount'=>'لم يتم تفعيل الحساب',
+    'sendPassword'=>'تفعيل وارسال كلمة المرور',
+    'edit_admin'=>'تعديل المدراء',
+    'edit_my_profile'=>'تعديل ملفي الشخصي',
+    'Change Password'=>'تغيير كلمة المرور',
+    'other'=>'غير ذلك',
+    'AddressSystem'=>'تفاصيل العنوان',
+    'city'=>'المدينة',
+    'cityTo'=>'الى مدينة',
+    'cityFrom'=>'من مدينة',
+    'Admin'=>'مدير',
+    'country'=>'الدولة',
+
+    'title_admin'=>'إدارة المدراء',
+    'admins'=>'إدارة المدراء',
+    'product'=>'المنتجات',
+    'site'=>'الموقع',
+
+    'image' => 'صورة ',
+    'images' => 'المزيد من الصور ',
+    'status' => 'الحالة ',
+    'createdBy' => 'انشأ بواسطة ',
+    'created' => 'انشأ بتاريخ ',
+    'size' =>'الحجم',
+    'quantity' =>'الكمية',
+    'addSize' =>' اضف الحجم',
+    'action' => 'العمليات ',
+    'not_selected' => 'انت لم تختار',
+    'add' => 'اضافة ',
+    'filter' => 'فلترة ',
+    'delete' => 'حذف ',
+    'active' => 'فعال ',
+    'activation' => 'تفعيل ',
+    'not_active' => 'غير فعال ',
+    'cancel_activation' => 'الغاء التفعيل ',
+    'search' => 'بحث ',
+    'edit' => 'تعديل ',
+    'order' => 'طلب',
+    'confirm' => 'هل انت متاكد !',
+    'confirmDeleteAll' => 'هل انت متأكد من حذف جميع العناصر المحددة !',
+    'confirmActiveAll' => 'هل انت متأكد من تفعيل جميع العناصر المحددة !',
+    'confirmNotActiveAll' => 'هل انت متأكد من الغاء تفعيل جميع العناصر المحددة !',
+    'change_image' => 'تغيير الصورة ',
+    'create' => 'تم الانشاء بنجاح',
+    'update' => 'تم التعديل بنجاح',
+    'approved' => 'تم الموافقة بنجاح',
+    'refused' => 'تم الرفض بنجاح',
+    'refuse' => 'رفض',
+    'approve' => 'موافقة',
+    'no' => 'لا يوجد بيانات!',
+    'price' => 'السعر ',
+    'total_price' => 'مجموع السعر',
+    'comment' => 'تعليق',
+    'mobile' => 'موبايل',
+    'email' => 'البريد الالكتروني',
+    'full_name' => 'الاسم بالكامل',
+
+    'privacy' => 'السياسات & الاجراءات',
+    'about_us' => 'من نحن',
+    'terms' => 'الشروط',
+    'logout' => 'تسجيل خروج ',
+    'reset' => 'اعادة تعيين ',
+    'enter_email' => 'ادخل البريد الالكتروني',
+    'enter_mobile' => 'ادخل رقم الجوال ',
+    'enter_location' => 'ادخل الموقع',
+    'name' => 'الاسم ',
+    'cancel' => 'الغاء ',
+    'submit' => 'ارسل ',
+    'edit_password' => 'تعديل الباسوورد ',
+    'name_en' => 'الاسم بالانجليزي ',
+    'name_ar' => 'الاسم بالعربي ',
+
+    'description_en' => 'الوصف بالانجليزي ',
+    'description_ar' => 'الوصف بالعربي ',
+    'description' => 'الوصف ',
+    'phone' => ' التيلفون ',
+
+    'from' => 'من ',
+    'to' => 'الى ',
+    'day' => 'يوم ',
+
+    'logo' => 'شعار ',
+
+    'completed' => 'منتهي',
+    'maincategory' => 'التصنيف الرئيسي',
+    'subcategory' => 'التصنيف الفرعي',
+    'date' => 'تاريخ',
+    'select' => 'اختار',
+    'file' => 'ملف',
+    'upload' => 'تحميل',
+    'specialization' => 'التخصص',
+    'wait' => 'انتظار',
+    'approved' => 'موافقة',
+
+    'type' => ' النوع',
+
+    'password' => 'كلمة المرور',
+    'confirm_password' =>'تاكيد كلمة المرور',
+    'time' => 'الوقت',
+    'code' => 'الكود',
+
+    'orders' => 'ادارة الطلبات',
+    'orders_count' => ' الطلبات',
+    'response' => 'الرد',
+
+    'land' => 'صفحة التطبيق الالكترونية',
+    'home' => 'الرئيسية',
+    'service' => 'الخدمات',
+
+    'contact_us' => 'تواصل معنا',
+    'all_component' => 'كافة العناصر',
+    'delete_cancel' => 'الغاء العملية',
+    'delete_msg' => 'رسالة حذف',
+    'delete_done' => 'تم الحذف',
+    'link' => 'رابط',
+    'transaction' => 'الخصومات',
+    'pages' => 'صفحات',
+    'page' => 'صفحة',
+
+
+    'address_en' =>'العنوان بالانجليزي',
+    'address_ar' =>'العنوان بالعربي',
+    'Url' =>'رابط',
+    'admin_email' =>'ايميل المدير',
+    'info_email' =>'ايميل التطبيق',
+    'app_store_url' =>'رابط متجر ابل',
+    'play_store_url' =>'رابط متجر جوجل',
+    'facebook' =>'فيسبوك',
+    'twitter' =>'توتير',
+    'instagram' =>'انستجرام',
+    'linked_in' =>'لينكد ان',
+    'google_plus' =>'جوجل بلس',
+
+    'Active' => 'مفعل',
+    'Not Active	' => 'غير مفعل',
+    'amazing' => 'رائعة',
+    'code' => 'صورة الكود',
+    'push' => 'ارسال اشعارات',
+
+    'balance' => 'رصيد الحساب',
+    'payments' => 'مرجع الدفعات',
+    'address' => 'العنوان',
+    'area_request'=>'المنطقة',
+
+    'street_address'=>'عنوان الشارع',
+
+    'offer_price'=>'سعر العرض',
+    'Availability'=>'التواجد',
+    'estimated_time'=>'وقت الانتظار',
+    'available'=>'متوفر',
+    'not_available'=>'غير متوفر',
+    'orderQuery'=>'الترتيب',
+    'category'=>'التصنيف',
+    'paymentMethod'=>'طرق الدفع',
+    'deliveryType'=>'نوع التوصيل',
+    'deliveryOption'=>'خيارات التوصيل',
+    'deliveryCompany'=>'شركات الشحن',
+
+    'SAR'=>'ريال سعودي ',
+
+    'success' => 'البيانات ارسلت بنجاح',
+    'errors' => 'هناك بعض الاخطاء, يرجى التاكد من البيانات',
+    'messages' => 'ادارة الاشعارات',
+    'msg' => ' الرسالة',
+    'send' => 'ارسل',
+    'smart' => 'سمارت ٢٠١٨',
+    'form_success' => 'التحقق من البيانات صحيح',
+    'stay' => 'رسائل تواصل',
+    'message' => 'رسالة',
+    'send_message' => 'ارسال رسالة',
+
+    'birthday' => 'تاريخ الميلاد',
+
+    'new_price' =>'السعر الجديد',
+    'old_price' =>'السعر القديم',
+    'current_price' =>' السعر الحالي',
+
+
+    'products' => 'منتجات',
+    'companyName' => 'اسم الشركة' ,
+    'type_position'=>'موقع الإعلان',
+    'companyRelation'=>'متصل في',
+    'FAQS' => 'FAQS',
+    'new_question' => 'سؤال جديد',
+    'question_ar' => 'السؤال بالعربي',
+    'question_en' => 'السؤال بالانجليزي',
+    'answer_en' => 'الجواب بالانجليزي',
+    'answer_ar' => 'الجواب بالعربي',
+    'QUESTIONS' => 'سؤال',
+    'ANSWER' => 'جواب',
+
+    'all'=>'الكل',
+
+    'username' => 'اسم المستخدم',
+    'join_us' => 'انضم لنا',
+    'optinal' => 'اختيارية',
+
+    'all_orders' => 'كافة الطلبات',
+
+    'my_orders' => 'طلباتي',
+    'remove' => 'ازالة',
+    'change' => 'تغيير',
+    'order_id' => 'رقم الطلب',
+    'user' => 'مستخدم',
+
+    'count' => 'العدد',
+    'lat'=>'latitude',
+    'lng'=>'longitude',
+    'Description'=>'الوصف ',
+
+
+    'Main_Category'=>'التصنيفات الرئيسية',
+
+
+    'edit_store'=>'تم التعديل بنجاح',
+    'read' =>'مقروءة',
+    'new' =>'جديد',
+    'done' =>'تم',
+    'delivery_method' => 'طريقة الاستلام',
+    'payment_method' => 'طريقة الدفع',
+    'min_order'=>'الحد الادنى للطلبات',
+    
+    'customer_name' => 'اسم العميل',
+    'customer_mobile' => 'رقم الجوال',
+    
+    'edit_admin'=>'تعديل بيانات المدير',
+    'add_admin'=>'اضافة مدير جديد',
+    'admin_type'=>'نوع المدير',
+    'ounce'=>'أوقية',
+    'piece'=>'قطعة',
+    'bag'=>'باكيت',
+    'number'=>'عدد',
+    'select'=>'اختر',
+    'availability'=>'متوفر ؟',
+    'order_date'=>'تاريخ الطلب',
+    'order_time'=>'الساعة',
+    'invoice_discount'=>'خصم على الفاتورة',
+    'net'=>'صافي الفاتورة',
+    'ch_status'=>'تغير حالة الطلب رقم ',
+    'working_hrs'=>'وقت العمل',
+    'contact_info'=>'بيانات الاتصال',
+    'print'=>'طباعة',
+    'role'=>'الصلاحيات',
+    'subject' => 'الموضوع',
+    'landingPage'=>'الصفحة الرئيسية',
+    'opinion'=>'آراء المستخدمين',
+    'features_menu'=>'المميزات',
+    'send_email'=>'ارسال ايميل',
+    'enforce_close'=>'اغلاق المتجر',
+    'rejected'=>'مرفوض',
+    'reject'=>'رفض',
+
+
+
+
+
+];

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="step4-copy" transform="translate(-683.000000, -380.000000)" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(686.000000, 383.000000)">
+                <g id="check-mark">
+                    <circle id="Oval" stroke="#C40000" stroke-width="5" cx="34.5" cy="34.5" r="34.5"></circle>
+                    <g id="Group" transform="translate(22.000000, 21.000000)" fill="#C40000">
+                        <polygon id="Shape" transform="translate(12.016068, 14.500000) rotate(6.000000) translate(-12.016068, -14.500000) " points="5.29327099 28 2.03213623 24.7906031 4.64037762 21.4492604 4.3334551 21.8685512 18.4955067 1 22 3.38091873"></polygon>
+                        <polygon id="Shape" transform="translate(12.016068, 14.500000) scale(-1, 1) rotate(6.000000) translate(-12.016068, -14.500000) " points="5.29327099 28 2.03213623 24.7906031 4.64037762 21.4492604 4.3334551 21.8685512 18.4955067 1 22 3.38091873"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

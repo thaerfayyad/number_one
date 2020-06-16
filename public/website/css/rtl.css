@@ -1,0 +1,255 @@
+@font-face {
+  font-family: 'jaz';
+  src: url('./fonts/jazeera.ttf.eot?#iefix') format('embedded-opentype'),  
+       url('./fonts/jazeera.ttf.woff') format('woff'), 
+       url('./fonts/jazeera.ttf.ttf')  format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+
+h1, h2, h3, h4, h5, h6, span, p, b, small, a, .btn, .form-control, select, li{
+    font-family: 'Tajawal', sans-serif  !important;
+}
+body{
+    direction:rtl;
+    font-family: 'Tajawal', sans-serif; !important
+}
+.menu > li {
+    float: right;
+}
+.header-bottom .logo {
+    margin-left: 2.5rem;
+}
+.header-right {
+    margin-right: auto;
+    margin-left: initial;
+}
+.header-dropdown a img {
+    margin-right:initial;
+    margin-left: .6rem;
+}
+.dropdown-expanded .header-menu ul li + li {
+    margin-right:2rem;
+    margin-left: initial;
+}
+.dropdown-expanded .header-menu ul li + li::before {
+    position: absolute;
+    top: 50%;
+    right: -14px;
+    left: auto;
+    height: 11px;
+    margin-top: -5.5px;
+    border-right: 1px solid;
+    content: '';
+    opacity: .8;
+}
+.product .add-wishlist, .product .icon-eye {
+  
+    left: auto;
+}
+.header-contact::after {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: auto;
+    width: 1px;
+    height: 43px;
+    margin-top: -21.5px;
+    background-color: #efefef;
+    content: '';
+}
+.header-contact {
+    margin-left: 3.2rem;
+    padding-left: 3.6rem;
+    margin-right: initial;
+    padding-right: initial
+}
+.header-search .btn {
+    border-left: none;
+    border-radius: initial;
+}
+.header-search select {
+    border-right: 1px solid #dbe0e2;
+}
+.header-search .select-custom::after {
+    left: 1.1rem;
+    right:auto;
+}
+.price-box {
+    font-family: 'Tajawal', sans-serif;
+}
+.old-price + .product-price {
+    margin-right: 1rem;
+    margin-left: initial;
+}
+.paction span {
+    font-size: 14px;
+}
+.heading {
+    text-align: right;
+}
+.form-footer .btn {
+    margin-left: 3rem;
+    margin-right: initial;
+}
+.breadcrumb-item + .breadcrumb-item {
+    padding-right: 1rem;
+    padding-left: initial;
+}
+.breadcrumb-item + .breadcrumb-item::before {
+    padding-right: 1rem;
+    padding-left: initial;
+    transform: rotate(180deg);
+}
+fieldset {
+    text-align: right;
+}
+.product-single-details {
+    text-align: right;
+}
+.product-col .product-image-container {
+    margin-right: initial;
+    margin-left: 1.8rem;
+}
+.select-custom::after {
+  right:auto;
+  left: 10px;
+}
+.cart-summary {
+    text-align: right;
+}
+.select-custom .form-control, .select-custom .form-control-sm {
+    padding-right: 10px;
+}
+.cart-summary h4 a {
+    padding: 1rem 0rem 1rem 1rem;
+}
+.cart-summary h4 a::after {
+    left: 10px;
+    right: auto;
+}
+.header-bottom .cart-dropdown {
+    margin-right: auto;
+    margin-left: initial;
+}
+.product-single-tabs .tab-pane {
+    text-align: right;
+}
+.sidebar-shop {
+    text-align: right;
+}
+.sidebar-shop .widget-title a::after {
+    right:auto;
+    left: -10px;
+}
+.col-lg-9 > h2 {
+    text-align:right;
+}
+.footer-top .widget-title {
+    text-align: right;
+}
+.widget-newsletter p {
+    text-align: right;
+}
+.carousel-title {
+    text-align: right;
+}
+.product-single-details p i {
+    margin-left: 10px;
+    margin-right: initial;
+}
+.boxCharacters .characterText {
+    text-align: right;
+}
+.boxCharacters .characterSocial li {
+    float: right;
+}
+.about-section {
+    text-align:right
+}
+.contact-info i {
+    float: right;
+}
+.light-title, .contact-info{
+    text-align:right;
+}
+.contact-info p {
+    margin-right: 5.5rem;
+    margin-left: initial;
+}
+.form-group {
+    text-align: right;
+}
+.editProductForm input {
+    float: right;
+}
+.editProductForm .boxImg {
+    margin-right: initial
+    margin-left: 10px;
+}
+.editProductForm .radiobutton input[type="radio"] + label {
+    padding-right: 28px;
+    padding-left: initial
+}
+.editProductForm .radiobutton input[type="radio"] + label:before {
+    right: 0;
+}
+.editProductForm .radiobutton input[type="radio"] + label:after {
+    right: 3px;
+}
+
+.header-right .header-menu {
+    right: auto;
+    left: 0;
+}
+.sectionOrder h2 {
+    text-align:right;
+}
+.panel {
+    text-align:right;
+}
+.statesR {
+    float: left;
+    margin-left: 40px;
+    margin-right: initial
+}
+.panel-title a time {
+    margin-right: 80px;
+    margin-left: initial
+}
+#accordion .panel-heading a:before {
+    left: 15px;
+    right: auto;
+}
+.myPro .boxPro {
+    width:50%;
+    text-align: left;
+    margin-bottom: 0;
+}
+.myPro .count-wrapper {
+    text-align:right
+}
+.headH4 {
+    margin-left:30px;
+    color:#08c;
+}
+.spanRight {
+    text-align:left !important;
+}
+
+@media screen and (min-width: 768px) {
+.footer .widget-social .social-icons {
+    margin-bottom: 0;
+    float: left;
+}
+}
+
+
+
+
+
+

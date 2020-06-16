@@ -1,0 +1,62 @@
+body{
+    font-family: 'Cairo', sans-serif;
+}
+.table-scrollable .dataTable td>.btn-group, .table-scrollable .dataTable th>.btn-group{
+    position: relative;
+}
+.table .btn-action > a{
+    margin-right: 5px !important;
+    display: inline-block;
+}
+.table-toolbar .btn-group button{
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.box-filter-collapse{
+    margin-top: 20px;
+    padding: 20px 0;
+    display: none;
+}
+#sample_1_filter{
+    display: none;
+}
+.symbol {
+    content: "*";
+    display: inline;
+    color: #E6674A;
+}
+
+.row.is-flex {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+.row.is-flex > [class*='col-'] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
+
+.image-delete {
+    height: 200px;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    text-align: center;
+}
+image-delete > img {
+    margin: auto;
+    max-height: 100%;
+}

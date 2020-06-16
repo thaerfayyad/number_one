@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 74 74">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #00c47a;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+
+      .cls-2 {
+        fill: #00c47a;
+      }
+    </style>
+  </defs>
+  <g id="check-mark" transform="translate(2.5 2.5)">
+    <circle id="Oval" class="cls-1" cx="34.5" cy="34.5" r="34.5" transform="translate(0 0)"/>
+    <path id="Shape" class="cls-2" d="M12.293,27,0,17.392,2.608,14.05l8.725,6.818L25.5,0,29,2.381Z" transform="translate(19 22)"/>
+  </g>
+</svg>

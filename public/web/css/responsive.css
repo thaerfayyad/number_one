@@ -1,0 +1,110 @@
+@media screen and (max-width: 1199px) {
+	.home_txt{
+		margin-top: 80px;
+	}
+	.home_txt > h2{
+		font-size: 28px;
+	}
+}
+@media screen and (max-width: 991px) {
+	.head_right{
+		display: none;
+	}
+	.hamburger{
+		display: block;
+	}
+	.social_links{
+		display: table;
+		margin: 20px auto;
+		float: none;
+	}
+	.section_services{
+		padding: 70px 0 50px;
+	}
+	.section_home{
+		padding-bottom: 70px;
+	}
+	.faq_item{
+		padding: 0;
+	}
+	.section_faq{
+		padding: 60px 0;
+	}
+	.main_menu{
+		display: none;
+	}
+}
+@media screen and (max-width: 767px) {
+	.home_txt{
+		margin: 20px 0;
+	}
+	.section_home{
+		padding: 100px 0 50px;
+	}
+	.section_home:before{
+		width: 100%;
+		height: 100%;
+		display: none;
+	}
+	.buttons_store{
+		display: table;
+		margin-right: auto;
+		margin-left: auto;
+	}
+	.home_txt > h2{
+		color: #706D93;
+	}
+	.home_txt{
+		text-align: center;
+	}
+	.home_txt > p{
+		padding: 0;
+	}
+	.seThumb{
+		display: none;
+	}
+	.section_services{
+		padding: 60px 0 40px;
+	}
+	.sec_head > h2{
+		font-size: 36px;
+	}
+	.sec_head{
+		margin-bottom: 40px;
+	}
+	.faq_item{
+		margin-bottom: 30px;
+	}
+	.contact_left > h2{
+		font-size: 26px;
+	}
+	.contact_info_box{
+		margin-top: 30px;
+	}
+	.copyright{
+		font-size: 14px;
+	}
+	#header{
+		background-color: rgba(78,73,129,1);
+	}
+}
+
+@media screen and (max-width: 575px) {
+	.home_txt > h2{
+		font-size: 24px;
+	}
+	.buttons_store{
+		margin-top: 30px;
+	}
+}
+@media screen and (max-width: 380px) {
+	.buttons_store > li > a{
+		border:2px solid transparent;
+		font-size: 15px;
+		padding: 8px 13px;
+		width: 130px;
+	}
+	.buttons_store > li > a > i{
+		margin-right: 6px;
+	}
+}
